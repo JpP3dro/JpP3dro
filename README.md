@@ -4,6 +4,7 @@
 - 🎓 Estudando Desenvolvimento de Sistemas na ETEC.
 - 🌱 Aprendendo mais sobre C#, SQL, PHP.
 
+![JpP3dro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JpP3dro&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpP3dro&layout=compact)](https://github.com/JpP3dro/github-readme-stats)
 <!---
 JpP3dro/JpP3dro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
